@@ -6,7 +6,7 @@
 
  When the person has confirmed their password addition, they will be shown their random password based on the selected length and additions.**The person must confirm at least one prompt**.
 
- ![](/Assets/images/Random Password Generator.jpg)
+ ![](/Assets/images/Random%20Password%20Generator.jpg)
 
   _____________________________________________________________________
 
